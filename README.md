@@ -6,3 +6,12 @@ Hope this repository helps you complete the coursework more easily! But never fo
 
 # Tips！
 Please note that this repository is a solution for the **previous version** of the coursework. New code requirements may vary based on your **current task sheet**.
+
+# Authors
+1. Pengkai Chen
+2. Yilin Li
+3. Peiling Tu
+4. Jinhong Jiang
+
+# Contact
+E-mail: kevinlasnh@outlook.com
