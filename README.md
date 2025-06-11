@@ -1,5 +1,5 @@
 # Overview
-This is a sample coursework of the CAN201 CW1, collaboratively completed by four students from the 22nd. This repository contains **all the files** you may need to reference while completing this coursework, including **submitted code**, **submitted report**, previous coursework, and **task sheet**.
+This is a sample coursework of the CAN201 CW1, collaboratively completed by four students from the 22nd. This repository contains **all the files** you may need to reference while completing this coursework, including **submitted code**, **submitted report**, and previous coursework **task sheet**.
 
 
 Hope this repository helps you complete the coursework more easily! But never forget that this repository is for **reference only**! For the majority of the problems, please solve them through **independent thinking**.
